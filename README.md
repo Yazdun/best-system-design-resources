@@ -4,7 +4,7 @@ This repository contains the best resources for System Design Interviews.
 
 ## System Design Fundamentals
 - ✅ [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
-- [SQL vs NoSQL](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
+- ✅ [SQL vs NoSQL](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
 - [CAP Theorom](https://www.scylladb.com/glossary/cap-theorem/)
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
 - [Horizontal vs Vertical Scaling](https://www.nops.io/blog/horizontal-vs-vertical-scaling/#:~:text=The%20primary%20difference%20between%20horizontal,.)
