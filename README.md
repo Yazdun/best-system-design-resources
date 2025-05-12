@@ -8,7 +8,7 @@ This repository contains the best resources for System Design Interviews.
 - ✅ [CAP Theorom](https://www.scylladb.com/glossary/cap-theorem/)
 - ✅ [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
 - ✅ [Horizontal vs Vertical Scaling](https://www.nops.io/blog/horizontal-vs-vertical-scaling/#:~:text=The%20primary%20difference%20between%20horizontal,.)
-- [Microservices](https://microservices.io/)
+- ✅ [Microservices](https://microservices.io/)
 - [Database Sharding](https://www.mongodb.com/features/database-sharding-explained#)
 - [Database Replication](https://redis.com/blog/what-is-data-replication/) 
 - [SQL Tuning](https://docs.oracle.com/en/database/oracle/oracle-database/23/tgsql/introduction-to-sql-tuning.html#GUID-B653E5F3-F078-4BBC-9516-B892960046A2) 
