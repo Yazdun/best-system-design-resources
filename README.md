@@ -77,10 +77,10 @@ This repository contains the best resources for System Design Interviews.
 - [System Design Interview: A Step-By-Step Guide](https://www.youtube.com/watch?v=i7twT3x5yv8)
 
 ## Best Engineering Newsletters
-- [The Developing Dev](https://www.developing.dev/) by Ryan Peterman
-- [ByteByteGo](https://blog.bytebytego.com/) by Alex Xu
-- [System Design Newsletter](https://systemdesign.one/) by Neo Kim
-- [Byte Sized Design](https://bytesizeddesign.substack.com/) by Alex Nguyen
+- ✅ [The Developing Dev](https://www.developing.dev/) by Ryan Peterman
+- ✅ [ByteByteGo](https://blog.bytebytego.com/) by Alex Xu
+- ✅ [System Design Newsletter](https://systemdesign.one/) by Neo Kim
+- ✅ [Byte Sized Design](https://bytesizeddesign.substack.com/) by Alex Nguyen
 
 ## Top Tech Engineering Blogs
 - [How OpenAI Scales Kubernetes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
