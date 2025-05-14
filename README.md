@@ -10,7 +10,7 @@ This repository contains the best resources for System Design Interviews.
 - ✅ [Horizontal vs Vertical Scaling](https://www.nops.io/blog/horizontal-vs-vertical-scaling/#:~:text=The%20primary%20difference%20between%20horizontal,.)
 - ✅ [Microservices](https://microservices.io/)
 - ✅ [Database Sharding](https://www.mongodb.com/features/database-sharding-explained#)
-- [Database Replication](https://redis.com/blog/what-is-data-replication/) 
+- ✅ [Database Replication](https://redis.com/blog/what-is-data-replication/) 
 - [SQL Tuning](https://docs.oracle.com/en/database/oracle/oracle-database/23/tgsql/introduction-to-sql-tuning.html#GUID-B653E5F3-F078-4BBC-9516-B892960046A2) 
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
 - [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/#:~:text=In%20Remote%20Procedure%20Call%20(RPC,on%20a%20specific%20server%20resource. )
