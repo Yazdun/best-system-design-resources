@@ -15,7 +15,7 @@ This repository contains the best resources for System Design Interviews.
 - ✅ [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
 - ✅ [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/#:~:text=In%20Remote%20Procedure%20Call%20(RPC,on%20a%20specific%20server%20resource. )
 - ✅ [Message Queues](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-the-distributed-messaging-queue)
-- [TCP vs UDP](https://www.avast.com/c-tcp-vs-udp-difference#:~:text=TCP%20vs%20UDP%3A%20Differences%20between%20the%20protocols,reliable%20but%20works%20more%20quickly.)
+- ✅ [TCP vs UDP](https://www.avast.com/c-tcp-vs-udp-difference#:~:text=TCP%20vs%20UDP%3A%20Differences%20between%20the%20protocols,reliable%20but%20works%20more%20quickly.)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Cache](https://aws.amazon.com/caching/)
 - [ACID Transactions](https://www.databricks.com/glossary/acid-transactions#:~:text=ACID%20is%20an%20acronym%20that,operations%20are%20called%20transactional%20systems.)
