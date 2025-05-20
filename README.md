@@ -13,7 +13,7 @@ This repository contains the best resources for System Design Interviews.
 - ✅ [Database Replication](https://redis.com/blog/what-is-data-replication/) 
 - ✅ [SQL Tuning](https://docs.oracle.com/en/database/oracle/oracle-database/23/tgsql/introduction-to-sql-tuning.html#GUID-B653E5F3-F078-4BBC-9516-B892960046A2) 
 - ✅ [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
-- [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/#:~:text=In%20Remote%20Procedure%20Call%20(RPC,on%20a%20specific%20server%20resource. )
+- ✅ [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/#:~:text=In%20Remote%20Procedure%20Call%20(RPC,on%20a%20specific%20server%20resource. )
 - [Message Queues](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-the-distributed-messaging-queue)
 - [TCP vs UDP](https://www.avast.com/c-tcp-vs-udp-difference#:~:text=TCP%20vs%20UDP%3A%20Differences%20between%20the%20protocols,reliable%20but%20works%20more%20quickly.)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
