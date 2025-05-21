@@ -18,7 +18,7 @@ This repository contains the best resources for System Design Interviews.
 - ✅ [TCP vs UDP](https://www.avast.com/c-tcp-vs-udp-difference#:~:text=TCP%20vs%20UDP%3A%20Differences%20between%20the%20protocols,reliable%20but%20works%20more%20quickly.)
 - ✅ [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - ✅ [Cache](https://aws.amazon.com/caching/)
-- [ACID Transactions](https://www.databricks.com/glossary/acid-transactions#:~:text=ACID%20is%20an%20acronym%20that,operations%20are%20called%20transactional%20systems.)
+- ✅ [ACID Transactions](https://www.databricks.com/glossary/acid-transactions#:~:text=ACID%20is%20an%20acronym%20that,operations%20are%20called%20transactional%20systems.)
 - [Database Indexing](https://www.progress.com/tutorials/odbc/using-indexes)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/#:~:text=An%20API%20gateway%20is%20a,%2Dcloud%2C%20and%20hybrid%20environments.)
 - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
