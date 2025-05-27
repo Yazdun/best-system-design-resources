@@ -83,7 +83,7 @@ This repository contains the best resources for System Design Interviews.
 - ✅ [Byte Sized Design](https://bytesizeddesign.substack.com/) by Alex Nguyen
 
 ## Top Tech Engineering Blogs
-- [How OpenAI Scales Kubernetes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
+- ✅ [How OpenAI Scales Kubernetes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
 - [How Stripe migrated a million lines of code](https://stripe.com/blog/migrating-to-typescript)
 - [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
 - [Debugging with a Netflix Engineer](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513)
