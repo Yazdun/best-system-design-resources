@@ -90,6 +90,6 @@ This repository contains the best resources for System Design Interviews.
 - ✅ [Sharding Pinterest: How to scale MySQL](https://medium.com/pinterest-engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
 - ✅ [How Instagram suggests new content](https://engineering.fb.com/2020/12/10/web/how-instagram-suggests-new-content/) 
 - ✅ [How Figma Scaled to Multiple Databases](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
-- [Finding Kafka's limit at Dropbox](https://dropbox.tech/infrastructure/finding-kafkas-throughput-limit-in-dropbox-infrastructure)
+- ✅ [Finding Kafka's limit at Dropbox](https://dropbox.tech/infrastructure/finding-kafkas-throughput-limit-in-dropbox-infrastructure)
 
 Your contributions are appreciated! 
