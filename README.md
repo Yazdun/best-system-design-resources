@@ -25,7 +25,7 @@ This repository contains the best resources for System Design Interviews.
 - ✅ [Content Delivery Network](https://aws.amazon.com/what-is/cdn/#:~:text=A%20content%20delivery%20network%20(CDN,loading%20for%20data%2Dheavy%20applications. )
 - ✅ [Idempotence](https://blog.dreamfactory.com/what-is-idempotency/)
 - ✅ [Consistent Hasing](https://www.toptal.com/big-data/consistent-hashing)
-- [Reverse Proxy](https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/#:~:text=A%20reverse%20proxy%20is%20a,security%2C%20performance%2C%20and%20reliability.)
+- ✅ [Reverse Proxy](https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/#:~:text=A%20reverse%20proxy%20is%20a,security%2C%20performance%2C%20and%20reliability.)
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f) 
 - [WebSockets](https://www.pubnub.com/guides/websockets/)
 
